@@ -1,0 +1,6 @@
+/Users/hacongtuan/why/LINQ_LAMBDA/Linq_lambda/Linq_lambda/bin/Debug/Linq_lambda.exe
+/Users/hacongtuan/why/LINQ_LAMBDA/Linq_lambda/Linq_lambda/bin/Debug/Linq_lambda.pdb
+/Users/hacongtuan/why/LINQ_LAMBDA/Linq_lambda/Linq_lambda/obj/Debug/Linq_lambda.csproj.AssemblyReference.cache
+/Users/hacongtuan/why/LINQ_LAMBDA/Linq_lambda/Linq_lambda/obj/Debug/Linq_lambda.csproj.CoreCompileInputs.cache
+/Users/hacongtuan/why/LINQ_LAMBDA/Linq_lambda/Linq_lambda/obj/Debug/Linq_lambda.exe
+/Users/hacongtuan/why/LINQ_LAMBDA/Linq_lambda/Linq_lambda/obj/Debug/Linq_lambda.pdb
