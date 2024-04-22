@@ -29,8 +29,19 @@ namespace Linq_lambda
             {
                 Console.Write(" " + s);
             }
-          
-           
-        }
+            Console.WriteLine();
+            var check = number.Where(x => (x % 3) == 0);
+
+            foreach (int s in check)
+            {
+                Console.Write(" " + s);
+            }
+        } 
+
+
     }
+    
+
+ 
+   
 }
