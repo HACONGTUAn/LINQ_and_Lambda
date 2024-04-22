@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{89BE2A1C-7C23-4833-BC22-8AA7E9F16375}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Linq_lambda/Program.cs">
+    <Files>
+      <File FileName="Linq_lambda/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Linq_lambda" expanded="True">
+            <Node name="Linq_lambda" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Linq__lambda FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
